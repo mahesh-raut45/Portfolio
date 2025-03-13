@@ -2166,6 +2166,7 @@ textarea.form-input::-webkit-resizer {
 
   .timeline-text {
     max-width: 700px;
+    padding-left: 15px;
   }
 
 }
