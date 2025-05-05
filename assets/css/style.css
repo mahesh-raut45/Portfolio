@@ -3,18 +3,6 @@
 \*-----------------------------------*/
 
 
-/**
- * copyright 2022 @codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
-
 :root {
 
   /**
@@ -2114,6 +2102,8 @@ textarea.form-input::-webkit-resizer {
 
   .avatar-box img {
     width: 150px;
+    border-radius: inherit;
+    box-shadow: 0px 0px 9px 3px gray;
   }
 
   .info-content .name {
